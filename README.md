@@ -2,7 +2,7 @@
 
 ### environment
 
-python 3.6.6
+python 3.6.3
 
 ### usage
 
